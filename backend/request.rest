@@ -1,0 +1,5 @@
+POST http://localhost:3001/authenticate 
+# POST http://192.168.1.107/authenticate 
+Content-Type: application/json
+
+{ "username": "test" }
