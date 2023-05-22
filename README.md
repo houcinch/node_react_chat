@@ -1,9 +1,9 @@
 # node_react_chat
-How to START
-cd frontend 
-npm run dev
+#How to START
+cd frontend <br>
+npm run dev <br>
 or 
-npm run dev -- --host
-cd ..
-cd backend
-npm run start
+npm run dev -- --host <br>
+cd .. <br>
+cd backend <br>
+npm run start <br>
